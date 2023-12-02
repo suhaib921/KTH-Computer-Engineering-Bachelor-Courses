@@ -1,55 +1,54 @@
 # KTH Computer Engineering Bachelor Courses
 
-- [ME1003 - Industrial Management, Basic Course]
-- [DH2642 - Interaction Programming and the Dynamic Web]
-- [IV1351 - Data Storage Paradigms]
-- [ID1021 - Algorithms and Data Structures]
-- [IV1350 - Object Oriented Design]
-- [IS1200 - Ping Pong Mini Project]
-- [IS1200 - Computer Hardware Engineering]
-- [ID1018 - Programming I]
+- [ME1003 - Industrial Management, Basic Course]()
+- [DH2642 - Interaction Programming and the Dynamic Web]()
+- [IV1351 - Data Storage Paradigms]()
+- [ID1021 - Algorithms and Data Structures]()
+- [IV1350 - Object Oriented Design]()
+- [IS1200 - Ping Pong Mini Project](https://github.com/1ZTQRhb/pong-ny.git)
+- [IS1200 - Computer Hardware Engineering]()
+- [ID1018 - Programming I]()
 
 
-## [ME1003 - Industrial Management, Basic Course]
+## [ME1003 - Industrial Management, Basic Course]()
 This course offers a foundational understanding of industrial management, essential for engineers to engage in technology-driven business, manage projects, develop operations, and lead teams within contemporary companies. 
 
 ### Course topics include:
--Describing various technology-based business models and the dynamics of value creation, proposition, and capture in industrial activities.
--Outlining how industrial operations are directed and organized.
--Applying and interpreting economic calculations for decision-making in various business contexts.
--Understanding the basic concepts and principles of accounting and finance, including how an industrial company's operations can be funded.
--Compiling and analyzing financial reports for an industrial company.
--Describing the business operations and strategic positioning of an existing industrial company using concepts from industrial economics, and performing a basic economic analysis of the company's activities, financial health, and financing methods.
+-   Describing various technology-based business models and the dynamics of value creation, proposition, and capture in industrial activities.
+-   Outlining how industrial operations are directed and organized.
+-   Applying and interpreting economic calculations for decision-making in various business contexts.
+-   Understanding the basic concepts and principles of accounting and finance, including how an industrial company's operations can be funded.
+-   Compiling and analyzing financial reports for an industrial company.
+-   Describing the business operations and strategic positioning of an existing industrial company using concepts from industrial economics, and performing a basic economic analysis of the company's activities, financial health, and financing methods.
 
-## [DH2642 - Interaction Programming and the Dynamic Web]
+## [DH2642 - Interaction Programming and the Dynamic Web]()
 This course explores the foundational principles of Model-View-Controller (MVC) for crafting interactive software. These principles are adaptable across a range of platforms including desktop, mobile, and web applications. The curriculum is tailored to web development, with a focus on JavaScript, DOM APIs, HTML, CSS, etc. The front-end interfaces developed utilize data provided by remote back-ends through web APIs.
 
 ### Course topics include:
--JavaScript for interaction programming, callbacks, synchronous and asynchronous code, functional programming.
--Web development interfaces (API): REST, JSON, AJAX, Fetch, Promises.
--Local data: cookies, local storage.
--User interfaces, appearance: HTML, CSS, DOM API, other tree based frameworks for user interfaces (e g Android).
--User interfaces, interaction: events, event levels, event propagation, event management.
--User interfaces, architectures: Model-View-Controller.
--User interfaces, frameworks: React, Angular, Vue.
+-   JavaScript for interaction programming, callbacks, synchronous and asynchronous code, functional programming.
+-   Web development interfaces (API): REST, JSON, AJAX, Fetch, Promises.
+-   Local data: cookies, local storage.
+-   User interfaces, appearance: HTML, CSS, DOM API, other tree based frameworks for user interfaces (e g Android).
+-   User interfaces, interaction: events, event levels, event propagation, event management.
+-   User interfaces, architectures: Model-View-Controller.
+-   User interfaces, frameworks: React, Angular, Vue.
 
-## [IV1351 - Data Storage Paradigms]
+## [IV1351 - Data Storage Paradigms]()
 This course serves as an introduction to the realm of data storage and databases, covering:
 
--Basics of databases, data storage, and information management.
--The relational database model.
--XML usage.
--Conceptual modeling and logical database design.
--Query language utilization.
--Integration of query languages into applications.
-More details can be found on the KTH course page
+-   Basics of databases, data storage, and information management.
+-   The relational database model.
+-   XML usage.
+-   Conceptual modeling and logical database design.
+-   Query language utilization.
+-   Integration of query languages into applications.
 
 ### Project Description, the Soundgood Music School
 The purpose is to facilitate information handling and business transactions for the Soundgood music school company, by developing a database which handles all the school's data and also an application that can handle some of the transactions.
 
 Building a database without structure will most likely end up failing or being extremely bad. In this project the author will structurally build a database for the Soundgood music school. The author solved the task by building a conceptual model, logical model and then translating it to SQL code to create the database itself. The database can perform various of different tasks such as managing the school´s instruments, lessons, students, and instructors. A command line interface will be developed to manage some aspects of the database. The author will be discussing and motivating each step of designing the database and how each step of the project was solved.
 
-## [ID1021 - Algorithms and Data Structures]
+## [ID1021 - Algorithms and Data Structures]()
 A basic course in computer science, that will give prerequisites for several advanced courses in computer science. The course will cover both theory on algorithms and data structures as well as practical software design.
 
 ### Course contents
@@ -68,15 +67,15 @@ Fundamental data structures:
 Program Design:
 -  Design and implementation of programmes that use basic algorithms and data structures to solve computer science problems.
 
-## [IV1350 - Object Oriented Design]
+## [IV1350 - Object Oriented Design]()
 This course makes you able to implement a given requirement specification in flexible and easily understood code. To reach this goal, the course covers fundamental concepts of object-oriented analysis, design and architecture, such as low coupling, high cohesion, encapsulation and polymorphism. The course also gives hands-on experience in using these concepts to design and implement an object-oriented program.
 
 ### Course contents Examples of fields that are treated:
 
 Object-oriented design and design pattern Architecture and architectural patterns Guidelines for object-oriented programming for example refactoring and unit testing UML (Unified Modeling Language) Object-oriented analysis
 
-## [IS1200 - Ping Pong Mini Project]
-## [IS1200 - Computer Hardware Engineering]
+## [IS1200 - Ping Pong Mini Project](https://github.com/1ZTQRhb/pong-ny.git)
+## [IS1200 - Computer Hardware Engineering]()
 ### Course contents
 This course imparts a basic understanding of computer architecture from both hardware and software perspectives, divided into six modules encompassing:
 
@@ -95,7 +94,7 @@ This course imparts a basic understanding of computer architecture from both har
 -  Compare and contrast multiprocessor systems.
 -  Communicate technical concepts effectively in both oral and written forms.
 
-## [ID1018 - Programming I]
+## [ID1018 - Programming I]()
 This course introduces essential programming concepts:
 -  Basic syntax and semantics of a high-level programming language.
 -  Variables, data types, expressions, and assignments.
@@ -121,12 +120,12 @@ Algorithmic problem solving:
 -  The concept and properties of algorithms
 
 Object-oriented programming:
--Principles of object-oriented design.
--The practice of encapsulation and the concealment of information.
--Distinguishing between the functionality and the construction of code.
--The hierarchy and structure of classes and subclasses.
--The concepts of inheritance in object-oriented programming.
--The use of polymorphism to enhance flexibility in code.
+-   Principles of object-oriented design.
+-   The practice of encapsulation and the concealment of information.
+-   Distinguishing between the functionality and the construction of code.
+-   The hierarchy and structure of classes and subclasses.
+-   The concepts of inheritance in object-oriented programming.
+-   The use of polymorphism to enhance flexibility in code.
 
 Exceptions:
--Exception handling
+-   Exception handling
