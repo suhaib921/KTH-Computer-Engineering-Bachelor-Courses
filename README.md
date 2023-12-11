@@ -5,7 +5,7 @@
 - [IV1351 - Data Storage Paradigms]()
 - [ID1021 - Algorithms and Data Structures]()
 - [IV1350 - Object Oriented Design]()
-- [IS1200 - Ping Pong Mini Project](https://github.com/1ZTQRhb/pong-ny.git)
+- [IS1200 - Ping Pong Mini Project](https://github.com/suhaib921/Ping-Pong-in-C-Using-Chipkit32-IS1200.git)
 - [IS1200 - Computer Hardware Engineering](https://github.com/suhaib921/Computer-Hardware-Engineering-IS1200.git)
 - [ID1018 - Programming I]()
 
@@ -74,7 +74,7 @@ This course makes you able to implement a given requirement specification in fle
 
 Object-oriented design and design pattern Architecture and architectural patterns Guidelines for object-oriented programming for example refactoring and unit testing UML (Unified Modeling Language) Object-oriented analysis
 
-## [IS1200 - Ping Pong Mini Project](https://github.com/1ZTQRhb/pong-ny.git)
+## [IS1200 - Ping Pong Mini Project](https://github.com/suhaib921/Ping-Pong-in-C-Using-Chipkit32-IS1200.git)
 ## [IS1200 - Computer Hardware Engineering](https://github.com/suhaib921/Computer-Hardware-Engineering-IS1200.git)
 ### Course contents
 This course imparts a basic understanding of computer architecture from both hardware and software perspectives, divided into six modules encompassing:
