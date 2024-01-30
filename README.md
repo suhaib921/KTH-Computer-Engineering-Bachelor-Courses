@@ -1,6 +1,6 @@
 # KTH Computer Engineering Bachelor Courses
 
-- [IK1203 - Networks and Communication()
+- [IK1203 - Networks and Communication]()
 - [ME1003 - Industrial Management, Basic Course]()
 - [DH2642 - Interaction Programming and the Dynamic Web]()
 - [IV1351 - Data Storage Paradigms]()
