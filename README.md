@@ -1,6 +1,6 @@
 # KTH Computer Engineering Bachelor Courses
 
-- [IK1203 - Networks and Communication]()
+- [IK1203 - Networks and Communication](https://github.com/suhaib921/Networks-and-Communication-IK1203.git)
 - [ME1003 - Industrial Management, Basic Course]()
 - [DH2642 - Interaction Programming and the Dynamic Web]()
 - [IV1351 - Data Storage Paradigms]()
@@ -11,7 +11,7 @@
 - [ID1018 - Programming I]()
 
 
-## [IK1203 - Networks and Communication]()
+## [IK1203 - Networks and Communication](https://github.com/suhaib921/Networks-and-Communication-IK1203.git)
 
 The course is an introduction to networking, protocols and communication.
 
