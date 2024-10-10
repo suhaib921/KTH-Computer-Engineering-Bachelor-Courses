@@ -10,6 +10,7 @@
 - [IS1200 - Ping Pong Mini Project](https://github.com/suhaib921/Ping-Pong-in-C-Using-Chipkit32-IS1200.git)
 - [IS1200 - Computer Hardware Engineering](https://github.com/suhaib921/Computer-Hardware-Engineering-IS1200.git)
 - [ID1018 - Programming I]()
+- [IX1500 - Diskret matematik](https://github.com/suhaib921/IX150_HT24_-50140-.git)
 
 
 ## [IK1203 - Networks and Communication](https://github.com/suhaib921/Networks-and-Communication-IK1203.git)
